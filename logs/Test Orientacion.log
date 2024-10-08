@@ -1,0 +1,29 @@
+
+💚 [3mThanks for using JUnit![23m[0m Support its development at [4mhttps://junit.org/sponsoring[24m[0m
+
+Se ha comenzado a ejecutar los Tests de Orientacion
+Se parte de la hormiga en (0, 0)
+Ejecucion de los Tests completada
+JUnit Jupiter > TestOrientacion > La orientacion de izquierda tiene 90 grados (o -270) :: STARTED
+[1mJUnit Jupiter > TestOrientacion > La orientacion de izquierda tiene 90 grados (o -270) :: SUCCESSFUL[0m
+JUnit Jupiter > TestOrientacion > Comprobacion de las orientaciones (por angulo) :: STARTED
+[1mJUnit Jupiter > TestOrientacion > Comprobacion de las orientaciones (por angulo) :: SUCCESSFUL[0m
+JUnit Jupiter > TestOrientacion > Comprobacion de mover hormiga :: STARTED
+[1mJUnit Jupiter > TestOrientacion > Comprobacion de mover hormiga :: SUCCESSFUL[0m
+JUnit Jupiter > TestOrientacion > El constructor sigue siendo unico y privado :: STARTED
+[1mJUnit Jupiter > TestOrientacion > El constructor sigue siendo unico y privado :: SUCCESSFUL[0m
+
+Test run finished after 252 ms
+[         4 containers found      ]
+[         0 containers skipped    ]
+[         4 containers started    ]
+[         0 containers aborted    ]
+[         4 containers successful ]
+[         0 containers failed     ]
+[         4 tests found           ]
+[         0 tests skipped         ]
+[         4 tests started         ]
+[         0 tests aborted         ]
+[         4 tests successful      ]
+[         0 tests failed          ]
+

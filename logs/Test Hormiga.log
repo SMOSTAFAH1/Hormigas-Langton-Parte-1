@@ -1,0 +1,56 @@
+
+💚 [3mThanks for using JUnit![23m[0m Support its development at [4mhttps://junit.org/sponsoring[24m[0m
+
+Se ha comenzado a ejecutar los Tests de Hormiga
+Ejecucion de los Tests completada
+JUnit Jupiter > TestHormiga > Comprobacion de girar :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de girar :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [1] 2, 3 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [1] 2, 3 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [2] -5, 3 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [2] -5, 3 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [3] 0, 1 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [3] 0, 1 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [4] 1, 0 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [4] 1, 0 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [5] -5, -5 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [5] -5, -5 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [6] 1, -2 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [6] 1, -2 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de mover > [7] -6, 0 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de mover > [7] -6, 0 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de tick :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de tick :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [1] 0, 4, 5, izquierda :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [1] 0, 4, 5, izquierda :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [2] 1, 5, 4, abajo :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [2] 1, 5, 4, abajo :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [3] 2, 6, 5, derecha :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [3] 2, 6, 5, derecha :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [4] 3, 5, 6, arriba :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de Avanzar > [4] 3, 5, 6, arriba :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [1] 2, 3 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [1] 2, 3 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [2] 5, 3 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [2] 5, 3 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [3] 0, 1 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [3] 0, 1 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [4] 1, 0 :: STARTED
+[1mJUnit Jupiter > TestHormiga > Comprobacion de cambiarColor > [4] 1, 0 :: SUCCESSFUL[0m
+JUnit Jupiter > TestHormiga > El constructor existe, Hormiga implementa IHormiga y se inicializa :: STARTED
+[1mJUnit Jupiter > TestHormiga > El constructor existe, Hormiga implementa IHormiga y se inicializa :: SUCCESSFUL[0m
+
+Test run finished after 470 ms
+[         7 containers found      ]
+[         0 containers skipped    ]
+[         7 containers started    ]
+[         0 containers aborted    ]
+[         7 containers successful ]
+[         0 containers failed     ]
+[        18 tests found           ]
+[         0 tests skipped         ]
+[        18 tests started         ]
+[         0 tests aborted         ]
+[        18 tests successful      ]
+[         0 tests failed          ]
+
